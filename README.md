@@ -2,7 +2,7 @@
 Just another malware database.
 You know the deal, don't download this stuff unless you know what you're doing.
 Passwords for the archives are "infected"
-For those who are going to add files to this, make sure it is a .7z file and with the password "infected". Oh, and if a file is too big, make sure to make it a .tar file and then .7z it with the password. Thx!
+For those who are going to add files to this, make sure it is a .7z file and with the password "infected". Oh, and if a file is too big, make sure to make it a .tar file and then .7z it with the password or split zip it and add the password. Thx!
 
 
 If there are any errors in the archives or just want to add smth, make an issue in the **'Issues'** tab. Thx!
