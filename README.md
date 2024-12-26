@@ -9,6 +9,8 @@ If there are any errors in the archives or just want to add smth, make an issue 
 
 # FAQ
 Q. Why isn't the archive working?
+
+
 A. This is probably because of the splitted zip, you need to download all the splitted zip files then open the .001 one and open it. Or if it's a non-splitted zip then make an issue.
 
 
